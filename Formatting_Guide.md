@@ -7,7 +7,7 @@ We're no strangers to love
 You know the rules and so do I
 ]]]
 ```
-Cdomtex usually ignores the line breaks in your files and just inserts
+Christendom Typesetter usually ignores the line breaks in your files and just inserts
 its own when needed, but it will respect line breaks in block quotes,
 in case you're quoting a genre where line breaks are important, like poetry.
 ### Italics
@@ -24,9 +24,13 @@ but it can be pretty much anything. E.g.,
 Homer says "Sing."^ody1.1
 ```
 will produce: Homer says "Sing."<sup>1</sup>
-You will then be able to edit the text of the footnote in the cdomtex window -
-it be labelled with the name you gave it.
+You will then be able to edit the text of the footnote in the
+Christendom Typesetter window -
+click "edit footnotes," and you will see
+a a box labelled with the name you gave it.
 (In the example used, you would look for the box labelled "ody1.1").
+Click on the box and type the text of
+your footnote.
 ### Bibliography/Works Cited
 To begin the Bibliography/Works Cited section,
 type BIBLIOGRAPHY or WORKS CITED on a line by itself -
@@ -38,13 +42,13 @@ ___Seuss, Dr. Green Eggs and Ham.
 NOTE: the preview does not show you the hanging indent, but don't worry -
 in the final PDF it will be there.
 ### Anything Else
-Cdomtex will accept any LaTeX commands - you just won't get a preview of them.
+Christendom Typesetter will accept any LaTeX commands - you just won't get a preview of them.
 If you need to do something simple, like adding or removing vertical space,
 you can just look up "how to add vertical space in LaTeX,"
 and you should find something that works, e.g., the \vspace command.
 For more complex formatting, like a different title page format,
 you can email the project lead,
-at [lewis.thornberry@christendom.edu], and they will show you how to do what you want.
+at lewis.thornberry@christendom.edu, and they will show you how to do what you want.
 Don't be afraid to ask: any questions
 will help us make this app better.
 ### Modifying the LaTeX templates
