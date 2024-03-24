@@ -1,1 +1,1 @@
-[Quickstart Guide](Quickstart_Guide.md)
+[Quickstart Guide](/Quickstart_Guide.md)
