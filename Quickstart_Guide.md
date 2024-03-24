@@ -1,5 +1,5 @@
 [home](/README.md)
-# Getting Started with Cdomtex
+# Getting Started with Christendom Typesetter
 
 ### Step 1: Download and run installer
 Follow the instructions on the [download page](https://www.christendom.dev/cdomtex/download)
