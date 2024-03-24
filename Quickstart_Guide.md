@@ -1,7 +1,7 @@
 # Getting Started with Cdomtex
 
 ### Step 1: Download and run installer
-Follow the instructions on the [download page] (www.christendom.dev/cdomtex/download)
+Follow the instructions on the [download page](https://www.christendom.dev/cdomtex/download)
 to get the the correct installer on to
 your computer, and run the installer.
 This will install Christendom Formatter
