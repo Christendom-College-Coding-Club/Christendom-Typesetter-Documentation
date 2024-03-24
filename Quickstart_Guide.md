@@ -29,7 +29,7 @@ your folder with the file explorer that
 pops up.
 
 ### Step 3: Start writing!
-Create a new text file in your folder,
+Create a new text file (.txt) in your folder,
 and start
 writing. Save that text file, go to your
 Christendom Typesetter window, and click
@@ -39,7 +39,10 @@ Christendom Typesetter! The system is set
 up this way so that you are free to
 split your paper up into multiple text
 files, which makes finding specific
-parts a lot easier.
+parts a lot easier. Changes you make to 
+your text files will be reflected in the
+Typesetter window as soon as you save
+them.
 
 ### Step 4: Save your essay as PDF
 Click the "Compile to PDF" button, 
