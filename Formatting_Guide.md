@@ -23,8 +23,8 @@ consecutive hyphens. E.g.,
 ```
 This is an em dash---it is basically a line.
 ```
-will produce: This is an em dash---it is
-basically a line.
+This will produce a nice-looking em dash
+when compiled to PDF.
 ### Footnotes
 To create a footnote, type ^ and then a name for the footnote.
 That name should ideally be symbolic of the footnote's contents, 
