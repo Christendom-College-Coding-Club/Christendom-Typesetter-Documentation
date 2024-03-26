@@ -17,6 +17,14 @@ To italicize a word or phrase, surround it in underscores. E.g.,
 _The Odyssey_
 ```
 will produce: _The Odyssey_.
+### Em Dashes
+To create an em dash, use three
+consecutive hyphens. E.g.,
+```
+This is an em dash---it is basically a line.
+```
+will produce: This is an em dash---it is
+basically a line.
 ### Footnotes
 To create a footnote, type ^ and then a name for the footnote.
 That name should ideally be symbolic of the footnote's contents, 
