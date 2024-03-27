@@ -31,7 +31,9 @@ pops up.
 ### Step 3: Start writing!
 Create a new text file (.txt) in your folder,
 and start
-writing. Save that text file, go to your
+writing (open your default text editor
+by double clicking on the .txt file).
+Save that text file, go to your
 Christendom Typesetter window, and click
 New Paragraph. Select your file from the
 list that pops up, and it will appear in
