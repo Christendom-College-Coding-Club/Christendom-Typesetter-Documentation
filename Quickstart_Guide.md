@@ -51,3 +51,7 @@ Click the "Compile to PDF" button,
 and Christendom Typesetter will save your
 essay as a PDF in its folder, and
 automatically open it in a browser tab.
+
+Read the [Formatting Guide](/Formatting_Guide.md) to learn 
+how to implement formatting
+like block quotes and footnotes.
