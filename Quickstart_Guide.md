@@ -46,6 +46,12 @@ your text files will be reflected in the
 Typesetter window as soon as you save
 them.
 
+IMPORTANT: If you want to write all of your paragraphs 
+in the same text file, _you are free
+to_. Just put an empty line where 
+you want the paragraph break to be, and
+Typesetter will handle it.
+
 ### Step 4: Save your essay as PDF
 Click the "Compile to PDF" button, 
 and Christendom Typesetter will save your
